@@ -1,4 +1,3 @@
-hljsSECURITY-POLICY-FILE
 # Security Policy
 
 `cognitive-meter` defines a receipt format intended to provide cryptographically verifiable usage records for AI API calls. Flaws in the schema, signature scheme, or canonicalization would compromise the trust model.
