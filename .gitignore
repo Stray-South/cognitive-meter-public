@@ -1,0 +1,15 @@
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+dist/
+build/
+*.egg-info/
+keys/
+.env
+.env.*
